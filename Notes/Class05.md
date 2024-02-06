@@ -1,0 +1,1 @@
+ - standared deviation for normalized data is 1
