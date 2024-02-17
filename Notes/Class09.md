@@ -1,0 +1,9 @@
+ - gradient decent algo
+ - draw a random line and move towards the required slopr and intercept
+ - if intercept constant, slopt variation with residue is a parabols. find the dy/dx is zero is the point where slop is minimum
+ - learning rate - multiply the difference by a small number to make the movement delta
+ - batch gradienct daya, take a batch and keep updating
+ - random - stocasting - moves like a drunk person on a walk to min
+ - min batch gradience decent - batched of n sizeds
+ - 
+ - 

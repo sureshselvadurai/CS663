@@ -1,0 +1,18 @@
+ - Linear Regession
+ - parametic or not depends o wherther continuoys function of not
+ - regression  - comes from moves towards medeo, or avergae
+ - on intrepetability
+ - lasso, least squares, additive trees, bagging, boosting , SVM
+ - incease bias, decreas variance
+ - bias -  assumptions about data, like linear
+ - variance - the rror
+ - overfitting and underfitting
+ - linear, x on y , residues have a normal distribution,. no corr betwee nn consucutibe
+ - homoscedacity
+   - data diverges with time . so resudues depends on x
+ - BROWTN FOURTH TEST
+ - PLOT RESIDUES OVER X AND ITS scattered all over
+ -  R goodness of fit : 
+ - R^2 variance of model and varience of y
+   - v model - var 
+
